@@ -24,8 +24,8 @@
 
 #define LIGHT_SENSOR 34//Grove - Light Sensor is connected to ___ of esp32
 
-const char* ssid     = "John Ballums Konservatorservice";
-const char* password = "ballumkonservdk";
+const char* ssid     = "";
+const char* password = "";
 //NEW URL: https://vejret.stenomuseet.dk/data/stenomuseet.htm
 const char* host = "moonwrecker.neocities.org";
 // This is the path to the page we want on the server:
